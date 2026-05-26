@@ -2,7 +2,7 @@
 // In a static app without a build step, browser JavaScript cannot read .env directly.
 // For production, replace this with a build-time env injection or server-side proxy.
 const config = {
-  apiKey: '9d45d98cb907b33b77d59916f1bcfc41',
+  apiKey: 'apiKey',
   baseUrl: 'https://api.openweathermap.org/data/2.5'
 };
 
