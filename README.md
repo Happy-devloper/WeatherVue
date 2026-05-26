@@ -24,7 +24,7 @@ A beautifully designed weather application built with **vanilla JavaScript**, **
 ## 🚀 Live Demo
 
 Check out the live version here:  
-🔗 [[https://Happy-devloper.github.io/weather-web-app.github.io](https://happy-devloper.github.io/WeatherVue/)]([https://Happy-devloper.github.io/weather-web-app.github.io](https://happy-devloper.github.io/WeatherVue/))
+🔗 [https://Happy-devloper.github.io/weather-web-app.github.io](https://happy-devloper.github.io/WeatherVue/)
 
 ---
 
